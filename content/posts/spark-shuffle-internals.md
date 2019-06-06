@@ -2,6 +2,7 @@
 title: "Spark RDD Shuffle internals"
 date: 2019-05-24T23:45:10+03:00
 draft: false
+comments: true
 ---
 
 ## group-by is using an aggregator to combineValuesByKey
